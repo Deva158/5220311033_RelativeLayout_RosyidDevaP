@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">5220311033_LinierLayout</string>
+    <string name="login_title">Login</string>
+    <string name="hint_username">Masukkan Username</string>
+    <string name="hint_password">Masukkan Password</string>
+    <string name="btn_login">Login</string>
+    <string name="animasi_desc">Gambar animasi aplikasi</string>
+    <string name="login_button_desc">Tombol untuk login</string>
+    <string name="hint_birth_place">Masukkan Tempat Lahir</string>
+    <string name="hint_birth_date">Masukkan Tanggal Lahir (DD/MM/YYYY)</string>
+    <string name="hint_address">Masukkan Alamat</string>
+</resources>
